@@ -21,7 +21,7 @@ body {
 }
 
 .header {
-  height: 100vh;
+  height: 80vh;
 }
 
 .header__nav {
@@ -78,6 +78,10 @@ body {
 }
 #menu:checked~ .control>span{
   opacity: 0;
+}
+
+.sultonbek{
+  margin-top: 100px;
 }
 
 
